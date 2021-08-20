@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wings19
-- 👀 I’m interested in racing and PC gaming
+- 👀 I’m interested in auto racing and PC gaming
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me: pilotharwood@gmail.com
 
